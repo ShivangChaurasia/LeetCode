@@ -34,17 +34,20 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShivangChaurasia/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShivangChaurasia/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShivangChaurasia/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +55,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShivangChaurasia/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Array
 |  |
 | ------- |
