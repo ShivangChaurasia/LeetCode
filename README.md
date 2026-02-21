@@ -28,6 +28,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Tree
 |  |
 | ------- |
@@ -77,4 +78,12 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
