@@ -33,6 +33,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -44,6 +45,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -58,6 +60,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ShivangChaurasia/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -73,6 +76,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
