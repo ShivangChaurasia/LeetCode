@@ -72,4 +72,9 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
