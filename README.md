@@ -18,6 +18,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0693-binary-number-with-alternating-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,6 +31,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Tree
 |  |
@@ -97,6 +99,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Hash Table
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -110,4 +113,12 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
