@@ -19,6 +19,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0693-binary-number-with-alternating-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
@@ -83,6 +84,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
@@ -132,4 +135,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
