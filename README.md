@@ -53,6 +53,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -65,6 +66,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0543-diameter-of-binary-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShivangChaurasia/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -88,6 +90,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
@@ -105,6 +108,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
