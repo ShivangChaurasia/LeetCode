@@ -127,6 +127,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
