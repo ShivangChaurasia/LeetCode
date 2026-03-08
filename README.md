@@ -121,6 +121,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
