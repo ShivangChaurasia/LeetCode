@@ -31,6 +31,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/ShivangChaurasia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
 ## String
@@ -103,6 +104,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
@@ -178,6 +180,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
