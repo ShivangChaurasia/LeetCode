@@ -40,6 +40,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShivangChaurasia/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
 | ------- |
