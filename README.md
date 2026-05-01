@@ -116,6 +116,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -142,6 +143,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -168,6 +170,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
