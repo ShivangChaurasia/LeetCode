@@ -117,6 +117,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -133,6 +134,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0098-validate-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
