@@ -39,6 +39,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -125,6 +126,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -143,6 +145,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +172,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
