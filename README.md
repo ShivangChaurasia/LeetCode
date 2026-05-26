@@ -54,6 +54,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShivangChaurasia/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
@@ -176,6 +177,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
