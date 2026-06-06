@@ -1,24 +1,14 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        // int count =0;
-        // int element =0;
-        // for(int i : nums){
-        //     if(count==0){
-        //         element=i;
-        //     }
-        //     count += (i==element)?1:-1;
-        // }
-        // return element;
+        int count=0;
+        int temp=0;
+        for(int i=0; i<nums.length;i++){
+            if(count==0){
+                temp = nums[i];
+            }
 
-        int count = 0, element = 0;
-        for (int i : nums){
-            if (count == 0) element = i;
-            count += (i == element) ? 1 : -1;
+            count += (nums[i]==temp) ? 1:-1;
         }
-        return element;
-
-
-        // Arrays.sort(nums);
-        // return nums[nums.length/2];
+        return temp;
     }
 }
