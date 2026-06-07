@@ -123,6 +123,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -176,6 +177,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0142-linked-list-cycle-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -186,6 +188,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
@@ -219,6 +222,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Simulation
