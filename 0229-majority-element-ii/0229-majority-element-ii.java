@@ -31,12 +31,13 @@ class Solution {
             else if (num == can2) count2++;
         }
 
-
         if (count1 > nums.length / 3)
             ls.add(can1);
 
         if (count2 > nums.length / 3)
             ls.add(can2);
+
+
         return ls; 
     }
 }
