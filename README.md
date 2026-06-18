@@ -121,6 +121,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ShivangChaurasia/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
@@ -174,6 +175,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShivangChaurasia/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShivangChaurasia/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
@@ -257,4 +259,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangChaurasia/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShivangChaurasia/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
