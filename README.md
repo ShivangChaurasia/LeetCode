@@ -129,6 +129,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/ShivangChaurasia/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivangChaurasia/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -258,6 +259,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ShivangChaurasia/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangChaurasia/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Union-Find
 |  |
