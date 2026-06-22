@@ -50,6 +50,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangChaurasia/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -184,6 +185,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -195,6 +197,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
