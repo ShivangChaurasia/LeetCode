@@ -18,6 +18,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0868-binary-gap) |
@@ -128,6 +129,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
+| [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -185,6 +187,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -233,6 +236,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Simulation
