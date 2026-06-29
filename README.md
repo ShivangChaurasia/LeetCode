@@ -59,6 +59,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShivangChaurasia/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangChaurasia/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Tree
@@ -139,6 +140,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivangChaurasia/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangChaurasia/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
