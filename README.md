@@ -134,6 +134,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/ShivangChaurasia/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -194,6 +195,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -242,6 +244,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Simulation
