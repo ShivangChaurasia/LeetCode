@@ -24,9 +24,6 @@ class Solution {
 
         // return gcd(eSum,oSum);
 
-        int even = n;
-        int odd = n+1;
-
         return n;
 
         
