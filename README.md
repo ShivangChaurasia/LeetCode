@@ -171,6 +171,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0788-rotated-digits) |
@@ -221,6 +222,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 ## Rolling Hash
 |  |
@@ -292,4 +294,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivangChaurasia/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
