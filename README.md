@@ -283,4 +283,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShivangChaurasia/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
