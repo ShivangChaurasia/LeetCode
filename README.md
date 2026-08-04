@@ -150,6 +150,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
@@ -207,6 +208,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -253,6 +255,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
