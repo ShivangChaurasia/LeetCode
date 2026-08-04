@@ -307,4 +307,12 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
