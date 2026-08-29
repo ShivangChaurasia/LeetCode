@@ -158,6 +158,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
@@ -220,6 +221,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
