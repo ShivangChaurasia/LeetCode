@@ -163,6 +163,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -312,6 +313,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1732-find-the-highest-altitude](https://github.com/ShivangChaurasia/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ShivangChaurasia/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
 |  |
 | ------- |
