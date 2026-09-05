@@ -16,8 +16,6 @@ class Solution {
 
         }
 
-        int[] ans = new int[n];
-
         for(int i=0;i<n;i++){
             if(preMax[i]-(postMin[i])<=k){
                 return i;
