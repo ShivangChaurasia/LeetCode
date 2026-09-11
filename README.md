@@ -157,6 +157,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2574-left-and-right-sum-differences](https://github.com/ShivangChaurasia/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -208,6 +209,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +232,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -330,6 +333,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1291-sequential-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
