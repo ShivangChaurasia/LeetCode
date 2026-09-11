@@ -150,6 +150,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangChaurasia/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -206,6 +207,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShivangChaurasia/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -277,6 +280,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -324,6 +328,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
