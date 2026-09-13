@@ -128,6 +128,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/ShivangChaurasia/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivangChaurasia/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShivangChaurasia/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0009-palindrome-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ShivangChaurasia/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ShivangChaurasia/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
@@ -305,6 +307,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShivangChaurasia/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ShivangChaurasia/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
