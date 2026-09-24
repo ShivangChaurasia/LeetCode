@@ -161,6 +161,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivangChaurasia/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangChaurasia/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -202,6 +203,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShivangChaurasia/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivangChaurasia/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivangChaurasia/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivangChaurasia/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
