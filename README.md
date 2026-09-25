@@ -196,6 +196,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0048-rotate-image](https://github.com/ShivangChaurasia/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivangChaurasia/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
@@ -302,6 +303,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangChaurasia/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -353,6 +355,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivangChaurasia/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShivangChaurasia/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
