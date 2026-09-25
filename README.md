@@ -53,6 +53,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShivangChaurasia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/ShivangChaurasia/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ShivangChaurasia/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -196,6 +197,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0202-happy-number](https://github.com/ShivangChaurasia/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -298,6 +300,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangChaurasia/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
