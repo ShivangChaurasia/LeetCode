@@ -52,6 +52,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivangChaurasia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ShivangChaurasia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShivangChaurasia/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
@@ -374,4 +375,12 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShivangChaurasia/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShivangChaurasia/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
