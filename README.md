@@ -134,6 +134,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ShivangChaurasia/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivangChaurasia/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShivangChaurasia/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -290,6 +291,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
@@ -383,4 +385,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivangChaurasia/LeetCode/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
