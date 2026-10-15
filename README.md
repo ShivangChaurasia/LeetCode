@@ -38,6 +38,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivangChaurasia/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShivangChaurasia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShivangChaurasia/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -137,6 +138,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShivangChaurasia/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivangChaurasia/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangChaurasia/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -295,6 +297,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
@@ -393,6 +396,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShivangChaurasia/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -401,4 +405,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
