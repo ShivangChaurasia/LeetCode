@@ -159,6 +159,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangChaurasia/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivangChaurasia/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
@@ -193,6 +194,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangChaurasia/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ShivangChaurasia/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -305,6 +307,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangChaurasia/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/3731-find-missing-elements) |
