@@ -414,4 +414,8 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivangChaurasia/LeetCode/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ShivangChaurasia/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
