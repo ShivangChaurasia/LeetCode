@@ -150,6 +150,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0169-majority-element](https://github.com/ShivangChaurasia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivangChaurasia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ShivangChaurasia/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ShivangChaurasia/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0877-stone-game) |
@@ -210,6 +211,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [0292-nim-game](https://github.com/ShivangChaurasia/LeetCode/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/ShivangChaurasia/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ShivangChaurasia/LeetCode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangChaurasia/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShivangChaurasia/LeetCode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/ShivangChaurasia/LeetCode/tree/master/0836-rectangle-overlap) |
