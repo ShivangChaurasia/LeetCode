@@ -173,6 +173,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShivangChaurasia/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ShivangChaurasia/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShivangChaurasia/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangChaurasia/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
