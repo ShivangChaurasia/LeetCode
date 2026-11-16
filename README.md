@@ -69,6 +69,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShivangChaurasia/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShivangChaurasia/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangChaurasia/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangChaurasia/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ShivangChaurasia/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -335,6 +336,7 @@ view my profile @ https://leetcode.com/u/shiva17ng/
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangChaurasia/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangChaurasia/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/ShivangChaurasia/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShivangChaurasia/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivangChaurasia/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ShivangChaurasia/LeetCode/tree/master/3701-compute-alternating-sum) |
